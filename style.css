@@ -73,7 +73,7 @@ Grid-row-end: 3;
 }
 
 .two {
-
+Grid-row: 1 / 3;
 }
 
 .four {
